@@ -1,3 +1,4 @@
+//created by https://github.com/gtmans july 2026
 #include "LGFX_ESP32_32E_ST7796.h"
 String TFSCRSIZ = "3.5\"";
 String TFSCREEN = "ST7796";
