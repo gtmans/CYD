@@ -12,6 +12,12 @@ Controller:ST7796
 Touch controller:XPT2046 resistive touch
 Library tested:LovyanGFX 1.2.26
 
+<img src="LGFX_ESP32_32E_ST7796/LGFX_ESP32_32E_ST7796-connectors.png" alt="Board and connectors" width="400">
+
+<img src="LGFX_ESP32_32E_ST7796/LGFX_ESP32_32E_ST7796-back.png" alt="Board" width="400">
+
+<img src="LGFX_ESP32_32E_ST7796/LGFX_ESP32_32E_ST7796.png" alt="Board" width="400">
+
 ## Why this repository exists
 This display is sold without a proper datasheet or pinout documentation.
 
@@ -166,7 +172,7 @@ LCD marking:
 HSD035577F4
 
 
-Credits
+<b>Credits</b>
 me & ChatGPT
 
 Configuration discovered by testing:
