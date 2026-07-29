@@ -1,7 +1,12 @@
 # CYD
 pinout and configfiles for som CYD clones
 
-# ESP32-32E 3.5" ST7796 LovyanGFX configuration
+** Working LovyanGFX configuration for the AliExpress: DIYTZT ESP32 LVGL WIFI & Bluetooth Development Board 2.4 inch LCD
+Board label:"ESP32-24"
+LCD marking: "LI435S-2.4"
+Controller:ILI9342 Touch controller:XPT2046 IPS resistive touch
+
+
 
 Working LovyanGFX configuration for the AliExpress:
 **"3.5 inch LCD Display ESP32-32E 320x480 Resistance Touch"**
