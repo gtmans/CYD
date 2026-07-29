@@ -11,7 +11,6 @@ Board label:"**ESP32-2432S028**"
 LCD marking: "**TPM408-2.8**"
 Controller:ST7789(ST7796) Touch controller:XPT2046 resistive touch Library tested:LovyanGFX 1.2.26
 
-
 Working LovyanGFX configuration for the AliExpress:
 **"3.5 inch LCD Display ESP32-32E 320x480 Resistance Touch"**
 Board label: **3.5" LCD Display ESP32-32E 320x480 resistance touch**
@@ -19,6 +18,8 @@ LCD marking: **HSD035577F4**
 Controller:ST7796 Touch controller:XPT2046 resistive touch Library tested:LovyanGFX 1.2.26
 
 All in separate directories.<br><br>
+
+details of github.com/gtmans/CYD/LGFX_ESP32_32E_ST7796
 
 **"3.5 inch LCD Display ESP32-32E 320x480 Resistance Touch"**
 <img src="LGFX_ESP32_32E_ST7796/LGFX_ESP32_32E_ST7796-connectors.png" alt="Board and connectors" width="400" align="left">
