@@ -1,3 +1,4 @@
+//created by https://github.com/gtmans sept 2026
 #include          "NM-CYD-C5_ST7789.h"
 String TFSCRSIZ = "2.8\"";
 String TFSCREEN = "ST7789";
